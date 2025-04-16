@@ -71,7 +71,7 @@ key[strcspn(key, "\n")] = '\0'; // Remove newline character if present
 
 
 ## Output:
-![Screenshot 2025-04-07 081710](https://github.com/user-attachments/assets/952f16c4-200b-4fd4-8f6a-22e5880ea3cd)
+![Screenshot 2025-04-16 093821](https://github.com/user-attachments/assets/db76e680-ef41-4fd1-bc0c-998221e42dd8)
 
 
 ## Result:
